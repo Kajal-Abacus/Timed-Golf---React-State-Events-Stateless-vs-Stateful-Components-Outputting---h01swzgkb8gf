@@ -78,15 +78,3 @@ class App extends React.Component {
 }
 
 export default App;
-
-
-
-  render() {
-    return (
- <>
-</>
-    );
-  }
-}
-
-export default Timer;
